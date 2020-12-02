@@ -15,7 +15,7 @@ My data is in need of organisation and my backup "system" needs redesigning.
 
 I have a computer dubbed PC2 that currently acts as a storage server and (among other things) a gitbucket server.
 
-It has several large hard disks of varying sizes with each disk having a sister disk of the same capacity that is stored in a hard disk storage case. Both disks should in a matching pair should have bit-identical content.
+It has several large hard disks of varying sizes with each disk having a sister disk of the same capacity that is stored in a hard disk storage case. Both disks in a matching pair should have bit-identical content.
 
 ### Current Methods
 
