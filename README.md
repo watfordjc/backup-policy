@@ -9,6 +9,10 @@ Documentation and notes will be written to a wiki.
 
 A number of programs and scripts will be referenced/created.
 
+### [LTO-Encryption-Manager](https://github.com/watfordjc/LTO-Encryption-Manager)
+
+A work in progress application that will use BIP-0039 and SLIP-0021 from the cryptocurrency world to generate deterministic symmetric 256 bit keys.
+
 ## Background
 
 My data is in need of organisation and my backup "system" needs redesigning.
