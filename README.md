@@ -13,7 +13,7 @@ A number of programs and scripts will be referenced/created.
 
 A work in progress application that will use BIP-0039 and SLIP-0021 from the cryptocurrency world to generate deterministic symmetric 256 bit keys.
 
-## [LTO-Encryption-SPTI](https://github.com/watfordjc/LTO-Encryption-SPTI)
+### [LTO-Encryption-SPTI](https://github.com/watfordjc/LTO-Encryption-SPTI)
 
 A work in progress tool that will use SCSI Pass Through Interface (SPTI) to communicate with an LTO drive, primarily used to communicate symmetric encryption keys and enable LTO AES256-GCM tape encryption.
 
